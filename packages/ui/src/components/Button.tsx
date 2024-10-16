@@ -1,4 +1,4 @@
-import { FC, ButtonHTMLAttributes } from "react";
+import React, { FC, ButtonHTMLAttributes } from "react";
 
 type ButtonProps = ButtonHTMLAttributes<HTMLButtonElement> & {};
 
